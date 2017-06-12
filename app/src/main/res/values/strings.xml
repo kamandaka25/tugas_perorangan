@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Individu</string>
+    <string name="title_activity_edit">EditActivity</string>
 </resources>
