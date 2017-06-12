@@ -1,5 +1,9 @@
 Deskripsi:<br>
-Karena dikarenakan belakangan ada keluhan tentang kekuatan ingatan otak yang bermasalah, maka dibuatlah aplikasi note untuk memperingatkan kita apa yang kita kerjakan<br>
+Karena dikarenakan belakangan ada keluhan tentang kekuatan ingatan otak yang bermasalah, <br>
+maka dibuatlah aplikasi note untuk memperingatkan kita apa yang kita kerjakan<br>
+Alur pemakaian aplikasi ini adalah pertama user menambah Note baru pada button add<br>
+Selanjutnya aplikasi akan langsung tampil, apabila ada kesalahan ada tombol berbentuk pensil untuk mengedit<br>
+Apabila Note sudah tidak digunakan pencet tombol tong sampah pada halaman utama untuk menghapus<br>
 Nama Aplikasi : Individu <br>
 Link APK : <href>https://drive.google.com/open?id=0BzWYAFA2d-6HQVJRcFVNd2Q4OFU</href><br>
 Nama Siswa : Zhakirasakti desta kamandaka<br>
